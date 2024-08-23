@@ -1,5 +1,5 @@
 import React from "react";
-import "./TestComponent.css"// no need to modify anything in here. The final test is looking for the returned JSX from this component
+// no need to modify anything in here. The final test is looking for the returned JSX from this component
 function TestComponent() {
   return (
     <div className="video">
